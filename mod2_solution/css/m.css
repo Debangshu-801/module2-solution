@@ -1,13 +1,4 @@
-
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta charset="utf-8" />
-    <title>Module2 Assignment</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style >
-    	* {
+* {
     box-sizing: border-box;
     /*font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;*/
 }
@@ -192,36 +183,3 @@ h2 {
       width: 100%;
     }
   }
-    </style>
-</head>
-
-<body>
-    <h1>Our Menu</h1>
-
-    <div class="col-lg-4 col-md-6 col-sm-12">
-        <section>
-            <h2 id="chicken">Chicken</h2>
-            <p>A chicken (Gallus gallus domesticus) is a kind of domesticated bird. It is raised in many places for its meat and eggs. They are usually kept by humans as livestock. ... A female chicken is called a hen.</p>
-           
-        </section>
-    </div>
-
-    <div class="col-lg-4 col-md-6 col-sm-12">
-        <section>
-            <h2 id="Fish">fish</h2>
-            <p>Fish (plural: fish) are an aquatic group of vertebrates which live in water and respire (get oxygen) with gills. They do not have limbs, like arms or legs, and they do have digits (fingers & toes). ... Lobe-finned fish. There are more fish than tetrapods (land vertebrates): there are over 33,000 described species of fish.</p>
-            
-        </section>
-    </div>
-
-    <div class="col-lg-4 col-md-12 col-sm-12">
-        <section>
-            <h2 id="Crabs">Crabs</h2>
-            <p>Crabs are decapod crustaceans which have a very short tail and are covered with a thick shell, or exoskeleton and are armed with a single pair of claws. There are over 6,793 species of crab spread across the oceans, fresh water, and even on land. ... Crabs are invertebrates (animals without a backbone).</p>
-           
-        </section>
-    </div>
-    
-</body>
-
-</html>
